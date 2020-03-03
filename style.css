@@ -1,0 +1,9 @@
+body{ 
+    font-family: cursive;
+    text-transform: uppercase;
+    text-align: center;
+    background: linear-gradient(to right, rgb(0, 255, 200) , rgb(0, 255, 157)); /* Standard syntax */
+   } 
+   h2{
+       color: white;
+   }
